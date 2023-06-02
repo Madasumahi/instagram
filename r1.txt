@@ -1,1 +1,6 @@
+<<<<<<< HEAD:r1.txt
 hello world
+=======
+hello world hi
+
+>>>>>>> 9f5b91652872fb0d94b6fd08dabc2cf16f4573a3:t2.txt
